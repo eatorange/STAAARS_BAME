@@ -13,7 +13,7 @@ This study relies on a total sample of 7930 households from two different survey
 
 ## Point of Contact
 * Dr. Amy Faye(amy.faye1@gmail.com) - Researcher at the BAME of the ISRA
-* Mouhamed Rassoul SY(syrassoul@gmail.com) - Researcher at the Food and Agricultural Organization (FAO) of the United Nation (UN)
+* Mouhamed Rassoul SY(syrassoul@gmail.com) - Data Analyst at the Food and Agricultural Organization (FAO) of the United Nation (UN)
 * Dr. Ndèye Fatou Faye Mané(ndeyefaye@gmail.com) - Research Fellow at the BAME of the ISRA
 * [Dr. John McPeak](https://jomcpeak.expressions.syr.edu/)(jomcpeak@syr.edu) - Professor at the Syracuse University
 * Seungmin Lee(sl3235@cornell.edu) - Ph.D. Student at Cornell University
