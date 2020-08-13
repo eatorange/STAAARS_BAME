@@ -83,11 +83,11 @@
    * `c(username)' is the system macro of STATA which has username
    * To find collaborator's user name, type -di "`c(username)'"- in STATA
 
-   if "`c(username)'"== "Seungmin Lee" {	//	Min, office PC
-       global projectfolder "E:\GitHub\US_Food_Dynamics"
+   if "`c(username)'"== "ftac2" {	//	Min, Laptop
+       global projectfolder "E:\GitHub\STAAARS_BAME"
    }
 
-   if "`c(username)'"== "xxx" {	//	Min, personal LAPTOP
+   if "`c(username)'"== "xxx" {	// Fatou
        global projectfolder "..."
    }
    
