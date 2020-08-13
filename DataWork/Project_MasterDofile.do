@@ -87,8 +87,8 @@
        global projectfolder "E:\GitHub\STAAARS_BAME"
    }
 
-   if "`c(username)'"== "xxx" {	// Fatou
-       global projectfolder "..."
+   if "`c(username)'"== "Hp" {	// Fatou
+       global projectfolder "C:\Users\Hp\Documents\GitHub\STAAARS_BAME"
    }
    
    if "`c(username)'"== "xxx" {	//	Liz
